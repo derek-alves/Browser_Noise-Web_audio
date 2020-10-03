@@ -1,0 +1,9 @@
+{
+  "name": "tonejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tone": "^14.7.58"
+  }
+}
